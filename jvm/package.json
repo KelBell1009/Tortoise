@@ -5,14 +5,15 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {
-    "brazierjs":               "2.0.0",
-    "coffeelint":              "1.16.0",
-    "grunt":                   "1.0.1",
-    "grunt-browserify":        "5.0.0",
-    "grunt-coffeelint":        "0.0.16",
-    "grunt-contrib-coffee":    "1.0.0",
-    "grunt-contrib-copy":      "1.0.0",
-    "iframe-phone":            "1.1.3",
-    "mori":                    "0.3.2"
+    "brazierjs": "2.0.0",
+    "coffeelint": "1.16.0",
+    "grunt": "1.0.1",
+    "grunt-browserify": "5.0.0",
+    "grunt-coffeelint": "0.0.16",
+    "grunt-contrib-coffee": "1.0.0",
+    "grunt-contrib-copy": "1.0.0",
+    "iframe-phone": "1.1.3",
+    "mori": "0.3.2",
+    "vectorious": "4.8.1"
   }
 }
